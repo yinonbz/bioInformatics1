@@ -1,0 +1,3 @@
+>ryhB
+GCGATCAGGAAGACCCTCGCGGAGAACCTGAAAGCACGACATTGCTCACATTGCTTCCAGTATTACTTAGCCAGCCGGGTGCTGGCTTTT
+((((...((....)).))))((((....((..((((......))))..))....))))..........(((((((.....)))))))...

@@ -1,0 +1,3 @@
+>rybB
+GCCACTGCTTTTCTTTGATGTCCCCATTTTGTGGAGCCCATCAACCCCGCCATTTCGGTTCAAGGTTGATGGGTTTTTTGT
+.((((.........................))))((((((((((((..(((.....)))....))))))))))))......
